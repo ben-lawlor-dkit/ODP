@@ -1,0 +1,15 @@
+C:\Users\Ben\Desktop\HotelBookingDemo\bin\Debug\HotelBMG2.exe.config
+C:\Users\Ben\Desktop\HotelBookingDemo\bin\Debug\HotelBMG2.exe
+C:\Users\Ben\Desktop\HotelBookingDemo\bin\Debug\HotelBMG2.pdb
+C:\Users\Ben\Desktop\HotelBookingDemo\obj\Debug\HotelBookingDemo.csproj.AssemblyReference.cache
+C:\Users\Ben\Desktop\HotelBookingDemo\obj\Debug\HotelBookingDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben\Desktop\HotelBookingDemo\obj\Debug\HotelBookingDemo.AdminPromoDeals.resources
+C:\Users\Ben\Desktop\HotelBookingDemo\obj\Debug\HotelBookingDemo.CustomerDetails.resources
+C:\Users\Ben\Desktop\HotelBookingDemo\obj\Debug\HotelBookingDemo.Home.resources
+C:\Users\Ben\Desktop\HotelBookingDemo\obj\Debug\HotelBookingDemo.HotelAdminNotifications.resources
+C:\Users\Ben\Desktop\HotelBookingDemo\obj\Debug\HotelBMG2.Properties.Resources.resources
+C:\Users\Ben\Desktop\HotelBookingDemo\obj\Debug\HotelBookingDemo.RoomBuilder.resources
+C:\Users\Ben\Desktop\HotelBookingDemo\obj\Debug\HotelBookingDemo.csproj.GenerateResource.cache
+C:\Users\Ben\Desktop\HotelBookingDemo\obj\Debug\HotelBookingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\HotelBookingDemo\obj\Debug\HotelBMG2.exe
+C:\Users\Ben\Desktop\HotelBookingDemo\obj\Debug\HotelBMG2.pdb
